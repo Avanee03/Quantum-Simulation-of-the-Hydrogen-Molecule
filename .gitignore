@@ -1,0 +1,9 @@
+/.vscode
+/__pycache__
+/h2_molecule
+/h2_qubit_hamiltonian.npz
+/vqe_convergence.png
+/vqe_deeper_layers4_L-BFGS-B.png
+/vqe_deeper_layers4_L-BFGS-B_report.txt
+/vqe_deeper_layers4_L-BFGS-B_report_params.txt
+/vqe_final_state.npy
