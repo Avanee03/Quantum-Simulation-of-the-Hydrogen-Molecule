@@ -13,7 +13,7 @@ Results:
 3. Visualization: Developed an animation of H₂ bond formation, transitioning from separated atoms to a stable molecular bond.
 
 
-![Demo Animation]("output.gif")
+![Demo Animation](https://raw.githubusercontent.com/Avanee03/Quantum-Simulation-of-the-Hydrogen-Molecule/refs/heads/main/output.gif)
 
 
 
