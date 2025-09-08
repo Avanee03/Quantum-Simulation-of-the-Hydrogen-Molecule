@@ -13,7 +13,7 @@ Results:
 3. Visualization: Developed an animation of H₂ bond formation, transitioning from separated atoms to a stable molecular bond.
 
 
-![Demo Animation]("C:\Users\avane\output.gif")
+![Demo Animation]("output.gif")
 
 
 
