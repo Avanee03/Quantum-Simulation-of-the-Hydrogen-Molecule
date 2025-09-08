@@ -12,6 +12,13 @@ Results:
 2. Ground State Energy: Obtained from VQE, in close agreement with exact diagonalization.
 3. Visualization: Developed an animation of H₂ bond formation, transitioning from separated atoms to a stable molecular bond.
 
+
+![Demo Animation]("C:\Users\avane\output.gif")
+
+
+
 Future Work:
 
 The current work focuses on the ground state of H₂. Extension is the simulation of excited states using quantum algorithms (e.g., subspace expansion methods or quantum equation-of-motion approaches). This will allow a deeper exploration of spectroscopy and molecular dynamics, which I plan to pursue as a next step.
+
+
